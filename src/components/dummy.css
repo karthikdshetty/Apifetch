@@ -1,0 +1,132 @@
+body{
+    color: rgb(0, 0, 0);
+    background-color: rgb(134, 129, 148);box-sizing: border-box;
+    display: grid;
+   
+}
+
+
+
+
+.tablerow{
+    /* display: grid; */
+    align-items: center;
+    background-color: rgb(255, 174, 0);
+    font-size: 25px;
+    border: 9px;
+   
+}
+
+.tablename{
+    width: 130px;
+    background-color: rgba(240, 162, 44, 0.521);
+    border: 3px solid rgb(240, 161, 44);
+    border-bottom: 2px;
+    border-right: 90px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 7px;
+}  
+.tablebrands{
+    width: 130px;
+    border: 3px solid rgb(255, 102, 0);
+    background-color: rgba(255, 102, 0, 0.5);
+    border-bottom: 2px;
+    border-right: 2px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 7px;
+    
+}
+.tableimage{
+    width: fit-content;
+    height: fit-content;
+    border: 3px solid rgb(218, 33, 33);
+    background-color: rgba(218, 33, 33, 0.486);
+    border-right: 2px;
+    border-bottom: 2px;
+    text-align: center;
+    border-radius: 7px;
+    
+}
+.tableprice{
+    width: 130px;
+    border: 3px solid rgb(185, 5, 59);
+    background-color: rgba(185, 5, 59, 0.507);
+    border-right: 2px;
+    border-bottom: 2px;
+    padding: 1px;
+    text-align: center;
+    border-radius: 7px;
+}
+.tablerating{
+    width: 130px;
+    border: 3px solid rgb(0, 145, 36);
+    background-color:  rgba(0, 145, 36, 0.5);
+    border-right: 2px;
+    border-bottom: 2px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 7px;
+}
+.tablestocks{
+    width: 130px;
+    border: 3px solid rgb(100, 184, 240);
+    background-color:  rgba(100, 184, 240, 0.479);
+    border-right: 2px;
+    border-bottom: 2px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 7px;
+}
+.tablediscountedprice{
+    width: 130px;
+    border: 3px solid rgb(44, 255, 2);
+    background-color: rgba(44, 255, 2, 0.493);
+    border-right: 2px;
+    border-bottom: 2px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 7px;
+}
+.tablecategory{
+    width: 130px;
+    border: 3px solid rgb(19, 12, 78);
+    background-color: rgba(19, 12, 78, 0.507);
+    border-right: 2px;
+    border-bottom: 2px;
+    padding: 20px;
+    text-align: center;
+    border-right: 3px solid rgb(8, 8, 8);
+    border-radius: 7px;
+}
+.tableimagee{
+    width: 180px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+.product-list{
+
+    background-color: rgb(236, 203, 203);
+
+}
+
+.slider{
+    width: 70%;
+    
+}
+
+
+.main{
+    display: flex;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.text{
+    font-size: medium;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
